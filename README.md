@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-10-18 at 4.08.12 PM.png…]()
 # mini-motocross-sim-starbie
 it is a minicrossbie (a mini motocross sim starbie). It is like a retro gaming controller with a mini motocross sim inside of it on the esp 32.
   👇
